@@ -1,2 +1,2 @@
-# digikullAssignment
+# digikull
 For Practice Assignments
